@@ -1,0 +1,13 @@
+1. Go to grsantos docker hub repository and then get the codeeducation prod version.
+
+2. In your docker host, you have to execute the command 'docker run --rm grsantos/codeeducation:prod'
+
+3. It have to show you the underling message, 'Code.education, Rocks'
+
+-----------------------------------//-----------------------------------------------------
+
+1. Vá para o docker hub do usuáro grsantos e pegue a versão de producao do código codeeducation
+
+2. Em seu docker host, execute o seguinte comando 'docker run --rm grsantos/codeeducation:prod'
+
+3. A mensagem que deve aparecer, 'Code.education, Rocks'
